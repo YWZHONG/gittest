@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tkwwIN:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tkwwIN.war">
+      <element id="artifact" artifact-name="tkwwIN:war exploded" />
+    </root>
+  </artifact>
+</component>
