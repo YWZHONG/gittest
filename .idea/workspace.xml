@@ -30,8 +30,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="228">
+              <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -695,7 +695,7 @@
       <option name="presentableId" value="Default" />
       <updated>1499845005700</updated>
       <workItem from="1499845006893" duration="3171000" />
-      <workItem from="1499912864088" duration="3610000" />
+      <workItem from="1499912864088" duration="3741000" />
     </task>
     <task id="LOCAL-00001" summary="add springMVC support">
       <created>1499928208144</created>
@@ -708,7 +708,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6781000" />
+    <option name="totallyTimeSpent" value="6912000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -828,8 +828,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding />
         </state>
       </provider>
