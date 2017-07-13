@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a22996a-bcd4-4c00-a3dc-20c95313ac3b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,8 +30,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            <state relative-caret-position="285">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -694,7 +695,7 @@
       <option name="presentableId" value="Default" />
       <updated>1499845005700</updated>
       <workItem from="1499845006893" duration="3171000" />
-      <workItem from="1499912864088" duration="3215000" />
+      <workItem from="1499912864088" duration="3610000" />
     </task>
     <task id="LOCAL-00001" summary="add springMVC support">
       <created>1499928208144</created>
@@ -707,7 +708,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6386000" />
+    <option name="totallyTimeSpent" value="6781000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -827,8 +828,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hk/tkww/oa/test/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
