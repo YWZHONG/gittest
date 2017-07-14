@@ -11,7 +11,11 @@ public class HelloWorld {
         System.out.println("git commit");
         System.out.println("first update");
         System.out.println("second update");
+<<<<<<< HEAD
         System.out.println("update master branch");
+=======
+        System.out.println("create bev branch");
+>>>>>>> dev
     }
 
 }
